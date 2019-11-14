@@ -1,0 +1,6 @@
+a = int(input("Enter the length of a rectangle")
+b = int(input("Enter the breadth of a rectangle")
+c = a*b
+print("The area of a rectangle is "+ str(c))
+d = 3(a+b)
+print("The perimeter of a rectangle is "+ str(d))
